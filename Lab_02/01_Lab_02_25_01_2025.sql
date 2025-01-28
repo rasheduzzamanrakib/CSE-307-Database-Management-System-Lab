@@ -14,4 +14,6 @@ values  (1, "asraful", "cse"),
 		(1, "rashed", "eee"),
         (1, "gulto", "BBA");
 
+select *
+from students;
 -- 
